@@ -1,0 +1,21 @@
+{
+  "name": "my-qingfeng-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "echo '请修改此命令：qingfeng run:{应用编码}:{环境}'",
+    "build": "echo '请修改此命令：qingfeng build:{应用编码}:{环境}'"
+  },
+  "dependencies": {
+    "@qingfengweb/core": "^1.0.0",
+    "@qingfengweb/cli": "^1.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0",
+    "@vitejs/plugin-react": "^4.3.0",
+    "typescript": "^5.5.0"
+  }
+}
